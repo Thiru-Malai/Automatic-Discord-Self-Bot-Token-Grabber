@@ -1,0 +1,17 @@
+{
+  "name": "Get Token",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": ["contentscript.js"],
+      "matches": ["https://discord.com/*"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["script.js"],
+      "matches": ["https://discord.com/*"]
+    }
+  ]
+}
