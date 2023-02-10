@@ -1,4 +1,3 @@
-console.log("Helloo Script")
 TOKEN = ""
 window.webpackChunkdiscord_app.push([
     [Math.random()],
@@ -19,7 +18,6 @@ window.webpackChunkdiscord_app.push([
     },
   ]);
   console.log(TOKEN)
-  // copy(TOKEN);
 
   navigator.clipboard.writeText(TOKEN).then(() => {
     console.log('Content copied to clipboard');

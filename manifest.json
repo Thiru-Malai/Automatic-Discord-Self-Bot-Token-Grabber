@@ -1,10 +1,16 @@
 {
-  "name": "Get Token",
+  "name": "Discord Token Grabber",
+  "description": "Automatically copies your discord token to your clipboard during login. Login into discord in chrome. That's it!. You got the token in your clipboard",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "16": "images/logo16.png",
+    "48": "images/logo48.png",
+    "128": "images/logo128.png"
+  },
   "content_scripts": [
     {
-      "js": ["contentscript.js"],
+      "js": ["inject.js"],
       "matches": ["https://discord.com/*"]
     }
   ],
