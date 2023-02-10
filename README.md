@@ -8,6 +8,7 @@
 ## How To Install This Extension
 
  1. Clone: <code>https://github.com/Thiru-Malai/Automatic-Discord-Token-Grabber.git</code>
+ 
     Or download using zip: <code>https://github.com/Thiru-Malai/Automatic-Discord-Token-Grabber/archive/refs/heads/main.zip</code>
 
  2. Go to your chrome extensions <code>chrome://extensions</code>
