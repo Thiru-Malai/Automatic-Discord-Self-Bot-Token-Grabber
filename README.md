@@ -1,11 +1,3 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p> -->
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiru-Malai)](https://github.com/anuraghazra/github-readme-stats) -->
-
-  
 # Automatic-Discord-Token-Grabber
  It automatically grabs the Self-Bot Token or the User Token when the User Logs In To Their Discord.
  
@@ -21,9 +13,11 @@
 
  3. Enable developer mode
  
- <img src="/temp/developerMode.PNG"/>
+![developerMode](https://user-images.githubusercontent.com/73980589/218063142-0fb9eb25-0dac-457d-b499-24b962196ce6.PNG)
 
  4. Click on Load Unpacked and select the cloned folder.
+
+![image](https://user-images.githubusercontent.com/73980589/218063454-1dc41706-795c-4c3c-8f3b-3d2858214067.png)
 
  5. That's it the extension will be installed in your browser.
 
@@ -35,6 +29,6 @@
 
  3. Click on Allow to see text and images copied to clipboard.
 
- <img src="temp\clipboardpermission.PNG">
+![clipboardpermission](https://user-images.githubusercontent.com/73980589/218063488-dec05869-5279-4a61-9760-b43ce06e40ea.PNG)
 
  4. Your token will be now copied to your clipboard. You can paste in somewhere and use it.
