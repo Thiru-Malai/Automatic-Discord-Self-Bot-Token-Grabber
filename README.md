@@ -15,7 +15,7 @@
 
  3. Enable developer mode
  
-![developerMode](https://user-images.githubusercontent.com/73980589/218063142-0fb9eb25-0dac-457d-b499-24b962196ce6.PNG)
+![Untitled design (7)](https://user-images.githubusercontent.com/73980589/218159861-0ef4869d-c741-4878-bff0-bea885c6b533.png)
 
  4. Click on Load Unpacked and select the cloned folder.
 
