@@ -7,7 +7,8 @@
  No need to go to Chrome Dev Tools Console. Just add this extension. This makes the work much easier.
 
  <p align="center">
-  Tested In: <img src="https://img.shields.io/badge/browsers-Chrome%20%7C%20Edge%20%7C%20Brave-blue" alt="Supported Browsers">
+  `Tested In`
+  <img src="https://img.shields.io/badge/browsers-Chrome%20%7C%20Edge%20%7C%20Brave-blue" alt="Supported Browsers">
  </p>
 ## How To Install This Extension
 
