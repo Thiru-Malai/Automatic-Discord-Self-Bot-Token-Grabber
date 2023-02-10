@@ -42,10 +42,12 @@
  4. Your token will be now copied to your clipboard. You can paste in somewhere and use it.
 
 ## 🖥️ Debug
+
  1. If this issue occurs, click on delete icon. It should disapper.
 ![image](https://user-images.githubusercontent.com/73980589/218163792-a36454b3-b887-4ed4-a352-4c7fb27df282.png)
 
-## Supported Browsers:
+## 🌐 Supported Browsers:
+
  1. Chrome
  2. Edge
  
@@ -54,8 +56,7 @@
  
  If anyother browsers is supported. Please let me know
 
-
-## Queries:
+## 💭 Queries:
 
  If you have any doubts or queries. Please raise an issue. I am glad to help ✨💞.
  
