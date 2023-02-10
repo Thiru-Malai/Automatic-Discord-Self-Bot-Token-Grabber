@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</p> -->
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiru-Malai)](https://github.com/anuraghazra/github-readme-stats) -->
