@@ -1,10 +1,14 @@
 # Automatic Discord Self-Bot Token Grabber
+ 
  It automatically grabs the Self-Bot Token or the User Token when the User Logs In To Their Discord.
  
  Add this as your chrome extension.
 
  No need to go to Chrome Dev Tools Console. Just add this extension. This makes the work much easier.
 
+ <p align="center">
+  Tested In: <img src="https://img.shields.io/badge/browsers-Chrome%20%7C%20Edge%20%7C%20Brave-blue" alt="Supported Browsers">
+ </p>
 ## How To Install This Extension
 
  1. Clone: <code>https://github.com/Thiru-Malai/Automatic-Discord-Token-Grabber.git</code>
