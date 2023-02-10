@@ -44,6 +44,7 @@
 ## 🖥️ Debug
 
  1. If this issue occurs, click on delete icon. It should disapper.
+ 2. 
 ![image](https://user-images.githubusercontent.com/73980589/218163792-a36454b3-b887-4ed4-a352-4c7fb27df282.png)
 
 ## 🌐 Supported Browsers:
