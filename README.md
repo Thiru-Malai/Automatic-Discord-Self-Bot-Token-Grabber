@@ -5,7 +5,7 @@
 
  No need to go to Chrome Dev Tools Console. Just add this extension. This makes the work much easier.
 
-#### How To Install This Extension
+## How To Install This Extension
 
  1. Clone: <code>https://github.com/Thiru-Malai/Automatic-Discord-Token-Grabber.git</code>
 
@@ -21,7 +21,7 @@
 
  5. That's it the extension will be installed in your browser.
 
-#### How To Get The Token
+## How To Get The Token
 
  1. Go to <code>https://discord.com/</code>
 
