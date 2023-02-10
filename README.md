@@ -3,9 +3,8 @@
 </p>
 
 
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiru-Malai)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
   
 # Automatic-Discord-Token-Grabber
  It automatically grabs the Self-Bot Token or the User Token when the User Logs In To Their Discord.
