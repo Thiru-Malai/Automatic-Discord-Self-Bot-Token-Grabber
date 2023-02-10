@@ -17,9 +17,9 @@
 
  1. clone: <code>https://github.com/Thiru-Malai/Automatic-Discord-Token-Grabber.git</code>
 
- 2. Go to your chrome extensions
+ 2. Go to your chrome extensions <code>chrome://extensions</code>
 
  3. Enable developer mode
- <img src="temp/developerMode.PNG"/>
+ <img src="/temp/developerMode.PNG"/>
 
  4.   
